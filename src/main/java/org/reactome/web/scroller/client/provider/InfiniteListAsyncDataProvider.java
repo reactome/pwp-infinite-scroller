@@ -3,7 +3,7 @@ package org.reactome.web.scroller.client.provider;
 import org.reactome.web.scroller.client.manager.AsyncListManager;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public interface InfiniteListAsyncDataProvider<T> {
 

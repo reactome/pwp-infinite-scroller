@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * This class maintains a list of all the items present in the InfiniteScrollList.
  *
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class ListManager<T> implements AsyncListManager<T> {
     private int totalRows = 0;

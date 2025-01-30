@@ -23,7 +23,7 @@ import org.reactome.web.scroller.client.provider.InfiniteListAsyncDataProvider;
  * As the user scrolls up or down new data are requested
  * and added in the wrapped CellList
  *
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public class InfiniteScrollList<T> extends LayoutPanel implements ListManager.Handler {
 

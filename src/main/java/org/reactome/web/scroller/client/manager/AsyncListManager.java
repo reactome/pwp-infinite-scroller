@@ -3,7 +3,7 @@ package org.reactome.web.scroller.client.manager;
 import java.util.List;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public interface AsyncListManager<T> {
 
