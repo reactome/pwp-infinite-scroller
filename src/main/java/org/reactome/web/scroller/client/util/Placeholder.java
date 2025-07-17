@@ -1,7 +1,7 @@
 package org.reactome.web.scroller.client.util;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 public enum Placeholder {
     START("##START##"),

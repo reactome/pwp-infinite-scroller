@@ -1,7 +1,7 @@
 package org.reactome.web.scroller.test;
 
 /**
- * @author Kostas Sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Kostas Sidiropoulos (ksidiro@ebi.ac.uk)
  */
 
 import com.google.gwt.view.client.ProvidesKey;
